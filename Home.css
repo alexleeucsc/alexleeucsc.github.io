@@ -1,0 +1,156 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 447px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 141px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 126px;
+  height: 168px;
+  margin: -110px auto 0 167px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 48px auto 60px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-2 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 421px;
+  height: 226px;
+  margin: 30px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  width: 680px;
+  margin: 3px auto 0;
+}
+
+.u-section-2 .u-text-5 {
+  width: 680px;
+  margin: 3px auto 0;
+}
+
+.u-section-2 .u-text-6 {
+  width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 570px;
+  height: 323px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 337px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-5 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-6 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 540px;
+    height: 306px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 181px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 183px;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-5 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-6 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 193px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-3 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px auto 0;
+}
+
+.u-section-3 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-3 {
+    width: 340px;
+  }
+}
